@@ -251,7 +251,7 @@ Cycle 2 - Rising edge:
 
 ## fpga resource utilization
 
-synthesized and run on an Intel/Altera FPGA (32-bit operands):
+synthesized and run on the Kria KV260 FPGA :
 
 | resource | used | available | utilization |
 |----------|------|-----------|-------------|
