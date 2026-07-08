@@ -1,6 +1,6 @@
 # building an alu in verilog
 
-> SystemVerilog implementation of a 32-bit ALU built from a full adder, supporting addition, subtraction, multiplication, and squaring — with registered pipeline and FPGA synthesis.
+> SystemVerilog implementation of a 32-bit ALU built from a full adder, supporting addition, subtraction, multiplication, and squaring with registered pipeline and FPGA synthesis.
 
 ---
 
