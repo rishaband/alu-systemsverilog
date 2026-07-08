@@ -163,4 +163,3 @@ synthesized and run on the Kria KV260 FPGA :
 
 ---
 
-*rishab anand*
